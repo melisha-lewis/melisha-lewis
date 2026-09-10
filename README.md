@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MELISHA%20LEWIS&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descAlignY=60&descSize=18&color=0:020617,35:172554,65:312E81,100:06B6D4&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=MELISHA%20LEWIS&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=61&descSize=17&color=0:020617,35:111827,65:312E81,100:06B6D4&animation=fadeIn"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=AI%2FML+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Python+%7C+Data+Science+%7C+AI;Exploring+Intelligent+Systems+%F0%9F%94%AC;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=AI%2FML+Student+%F0%9F%A4%96;Exploring+Artificial+Intelligence+%F0%9F%A7%A0;Machine+Learning+%7C+Python+%7C+Data+Science;Turning+Data+Into+Intelligence+%F0%9F%94%AC;Learn+%E2%80%A2+Experiment+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%9C%A8"/>
 
 <br><br>
 
@@ -16,67 +14,86 @@
 
 <div align="center">
 
-## `> initialize_ai_profile()`
+### `╭─── SYSTEM INITIALIZED ───╮`
+
+### 🤖 AI/ML STUDENT
+
+`Artificial Intelligence` • `Machine Learning` • `Data Science`
+
+### `╰──────────────────────────╯`
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                     MELISHA LEWIS                       ║
-║                                                          ║
-║              🎓  AI / ML STUDENT                        ║
-║                                                          ║
-║   ┌──────────────────────────────────────────────────┐   ║
-║   │                                                  │   ║
-║   │  🧠 Artificial Intelligence                      │   ║
-║   │  🤖 Machine Learning                             │   ║
-║   │  📊 Data Science                                │   ║
-║   │  🐍 Python                                      │   ║
-║   │  🔬 AI Experimentation                           │   ║
-║   │                                                  │   ║
-║   └──────────────────────────────────────────────────┘   ║
-║                                                          ║
-║       Learning how intelligent systems are built.       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<br>
 
----
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-<div align="center">
+## 🧠 About Me
 
-## 🧠 ABOUT ME
+I'm an **Artificial Intelligence & Machine Learning student** passionate about understanding how intelligent systems learn, reason and solve problems.
 
-</div>
+I enjoy experimenting with **Python, machine learning, data analysis and AI systems**, while turning what I learn into practical projects.
 
-I'm an **Artificial Intelligence & Machine Learning student** interested in understanding how intelligent systems work and turning ideas into practical AI solutions.
+<br>
 
-My interests include:
+**Currently interested in**
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 🔬 Deep Learning
-* 📊 Data Science & Analytics
+* 📊 Data Science
 * 🐍 Python
 * 📈 Data Visualization
-* 💡 Problem Solving
-* 🚀 Exploring emerging AI technologies
+* 🧩 Intelligent Systems
+
+</td>
+
+<td width="45%" valign="top">
+
+## ⚡ AI Profile
+
+```text
+ROLE
+└─ AI / ML Student
+
+FOCUS
+├─ Artificial Intelligence
+├─ Machine Learning
+├─ Data Science
+└─ Intelligent Systems
+
+LANGUAGE
+└─ Python
+
+MINDSET
+├─ Learn
+├─ Experiment
+├─ Build
+└─ Improve
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## ⚡ AI / ML TOOLKIT
+## 🧬 TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql&perline=6"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode&theme=dark&perline=6"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24"/>
-<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=python&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=robotframework&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1120?style=for-the-badge&logo=googlebard&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Data%20Science-0B1120?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-0B1120?style=for-the-badge&logo=mysql&logoColor=06B6D4"/>
 
 </div>
 
@@ -84,32 +101,30 @@ My interests include:
 
 <div align="center">
 
-## 🔬 AI PROJECTS
+## 🚀 SELECTED PROJECTS
 
 </div>
 
 <table align="center">
+
 <tr>
 
 <td width="50%" valign="top">
 
 ### 🤖 Tutelaris
 
-A local AI project exploring intelligent voice interaction and AI-assisted safety applications.
+**Local AI & intelligent voice system**
 
-**Focus**
+A project exploring local AI, voice interaction and AI-assisted safety applications.
 
-`Artificial Intelligence`
-`Local LLM`
-`Python`
-`Flask`
-`SQLite`
-`Voice AI`
+**Built with**
+
+`Python` `Flask` `SQLite` `Local LLM` `Voice AI`
 
 <br>
 
 <a href="https://github.com/melisha-lewis/Tutelaris">
-<img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -118,31 +133,31 @@ A local AI project exploring intelligent voice interaction and AI-assisted safet
 
 ### 🌾 Seasonal Agricultural Analysis
 
-A data-analysis project exploring agricultural performance across seasons and identifying patterns, trends and relationships within the dataset.
+**Data-driven agricultural analysis**
 
-**Focus**
+Explores seasonal agricultural performance, trends, patterns and relationships using statistical and visualization techniques.
 
-`Python`
-`Data Analysis`
-`Statistics`
-`Visualization`
+**Built with**
+
+`Python` `Data Analysis` `Statistics` `Visualization`
 
 <br>
 
 <a href="https://github.com/melisha-lewis">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB INTELLIGENCE
 
 <br>
 
@@ -166,33 +181,15 @@ A data-analysis project exploring agricultural performance across seasons and id
 
 <div align="center">
 
-## 🐍 CONTRIBUTION MATRIX
+## 🐍 MY CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/melisha-lewis/melisha-lewis/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-## 🧩 CURRENTLY EXPLORING
-
-```text
-          ┌───────────────────────────────┐
-          │                               │
-          │       🤖 ARTIFICIAL AI        │
-          │              ↓                │
-          │       🧠 MACHINE LEARNING     │
-          │              ↓                │
-          │        📊 DATA SCIENCE        │
-          │              ↓                │
-          │       🔬 EXPERIMENTATION      │
-          │              ↓                │
-          │        🚀 REAL PROJECTS       │
-          │                               │
-          └───────────────────────────────┘
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melisha-lewis/melisha-lewis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melisha-lewis/melisha-lewis/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/melisha-lewis/melisha-lewis/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -200,9 +197,27 @@ A data-analysis project exploring agricultural performance across seasons and id
 
 <div align="center">
 
-## 💡 MY DEVELOPMENT MINDSET
+## 🔬 CURRENTLY EXPLORING
 
-`LEARN`  →  `EXPERIMENT`  →  `BUILD`  →  `ANALYZE`  →  `IMPROVE`
+<br>
+
+`🤖 AI`
+
+↓
+
+`🧠 MACHINE LEARNING`
+
+↓
+
+`📊 DATA`
+
+↓
+
+`🔬 EXPERIMENTATION`
+
+↓
+
+`🚀 REAL-WORLD SYSTEMS`
 
 </div>
 
@@ -210,21 +225,39 @@ A data-analysis project exploring agricultural performance across seasons and id
 
 <div align="center">
 
-## 🌐 FIND ME
+## 💫 MY APPROACH
+
+<table>
+<tr>
+<td align="center">🧠<br><b>LEARN</b></td>
+<td>→</td>
+<td align="center">🔬<br><b>EXPERIMENT</b></td>
+<td>→</td>
+<td align="center">💻<br><b>BUILD</b></td>
+<td>→</td>
+<td align="center">📊<br><b>ANALYZE</b></td>
+<td>→</td>
+<td align="center">⚡<br><b>IMPROVE</b></td>
+</tr>
+</table>
+
+<br>
+
+### `while (learning) { keepBuilding(); }`
+
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/melisha-lewis">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-### `while(alive) { learn(); build(); improve(); }`
-
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,35:2563EB,65:4F46E5,100:7C3AED&animation=fadeIn"/>
 
