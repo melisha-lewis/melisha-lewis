@@ -1,8 +1,6 @@
-# ✦ MELISHA LEWIS
+◈ Hey, I'm [MELISHA LEWIS]
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Generative+AI+Explorer;Computer+Vision+Enthusiast;Building+intelligent+things+%E2%9C%A8;Turning+ideas+into+working+systems+%F0%9F%A4%96" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=190&section=header&text=AI%20%2F%20ML%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,100:7c3aed&height=160&section=header&animation=fadeIn"/>
