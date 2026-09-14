@@ -1,65 +1,28 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!--                  MELISHA LEWIS • GITHUB                     -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=MELISHA%20LEWIS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,100:7c3aed&height=200&section=header&text=MELISHA%20LEWIS&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Melisha+Lewis+%F0%9F%91%8B;AI%2FML+Developer+%7C+Generative+AI+Explorer;Building+intelligent+systems+that+actually+think.;Computer+Vision+%7C+LLMs+%7C+Deep+Learning;Turning+ideas+into+AI-powered+products+%F0%9F%A4%96" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=%3E+Melisha+Lewis+%E2%9C%A6;%3E+AI+%2F+ML+Developer;%3E+Generative+AI+Explorer;%3E+Computer+Vision+Enthusiast;%3E+Melisha+Lewis+is+building+the+future+%F0%9F%A4%96"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&height=40&lines=Initializing+Melisha.Lewis...;%5BOK%5D+AI+modules+loaded;%5BOK%5D+Curiosity+engine+online;%5BOK%5D+Melisha+Lewis+is+building...;%5BSTATUS%5D+MELISHA_ONLINE+%E2%97%8F"/>
-</p>
+<a href="https://github.com/melisha-lewis">
+<img src="https://img.shields.io/github/followers/melisha-lewis?label=Followers&style=for-the-badge&logo=github&color=06b6d4" />
+</a>
+<a href="https://github.com/melisha-lewis?tab=repositories">
+<img src="https://img.shields.io/github/stars/melisha-lewis?affiliations=OWNER&style=for-the-badge&logo=github&color=8b5cf6" />
+</a>
+<a href="https://github.com/melisha-lewis">
+<img src="https://komarev.com/ghpvc/?username=melisha-lewis&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VISITS&color=7c3aed&style=flat-square"/>
-   
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=8b5cf6"/>
-</p>
-
-<br>
+</div>
 
 ---
 
-# `01 // SYSTEM.IDENTITY`
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│              M E L I S H A   L E W I S              │
-│                                                      │
-│              ───────────────────────                 │
-│                 AI / ML DEVELOPER                    │
-│                                                      │
-│       > learning       █████████░░  90%              │
-│       > building       ████████░░░  80%              │
-│       > experimenting  ███████████ 100%              │
-│                                                      │
-│       STATUS: ● ONLINE                               │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Melisha+Lewis+%F0%9F%91%8B;Welcome+to+my+AI+lab+%F0%9F%A4%96;Where+ideas+become+intelligent+systems+%E2%9C%A8"/>
-</p>
-
-Hi! I'm **Melisha Lewis**, an aspiring **AI/ML developer** passionate about building intelligent applications and exploring the rapidly evolving world of Artificial Intelligence.
-
-My interests live at the intersection of:
-
-**Machine Learning × Deep Learning × Generative AI × LLMs × Computer Vision**
-
-I enjoy going beyond simply training models — I like turning ideas into **useful, interactive, and deployable applications**.
-
----
-
-# `02 // MELISHA.CORE`
+## `> SYSTEM.IDENTITY`
 
 ```python
 class MelishaLewis:
@@ -68,267 +31,248 @@ class MelishaLewis:
     role = "AI / ML Developer"
 
     interests = [
-        "Artificial Intelligence",
         "Machine Learning",
         "Deep Learning",
         "Generative AI",
         "Large Language Models",
-        "Computer Vision"
+        "Computer Vision",
+        "Intelligent Applications"
     ]
 
-    mindset = "learn → build → experiment → improve"
+    philosophy = "Build. Learn. Experiment. Repeat."
 
-    mission = "Build AI that solves meaningful problems."
+    mission = """
+    Turning complex AI concepts into useful,
+    intelligent and human-centered products.
+    """
 ```
 
+> **I don't just want to use AI. I want to understand it, build with it, and push it further.**
+
+---
+
+## `> AI.ENGINEERING.STACK`
+
+### 🧠 Artificial Intelligence
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=600&lines=Melisha+Lewis.exe+%E2%86%92+RUNNING;%3E%3E+Curiosity+loaded;%3E%3E+Creativity+loaded;%3E%3E+AI+modules+loaded;%3E%3E+Ready+to+build+%E2%9C%A6"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=googlebard&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243"/>
+
+</p>
+
+### 🤖 AI Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-111827?style=for-the-badge&logoColor=22D3EE"/>
+
+</p>
+
+### 🚀 Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </p>
 
 ---
 
-# `03 // TECH.ARSENAL`
-
-## 🧠 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=5"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-8b5cf6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-7c3aed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-a78bfa?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-6366f1?style=for-the-badge"/>
-</p>
-
-## 🤖 Generative AI
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Embeddings-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vector%20Databases-1f2937?style=flat-square"/>
-</p>
-
-## 👁️ Computer Vision
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/YOLO-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Transformers-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/BERT-1f2937?style=flat-square"/>
-</p>
-
-## 📊 Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pandas-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1f2937?style=flat-square"/>
-</p>
-
-## ⚡ Application Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-1f2937?style=flat-square"/>
-</p>
-
-## 🛠️ Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react&theme=dark&perline=7"/>
-</p>
-
----
-
-# `04 // CURRENTLY.EXPLORING`
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=400&color=C4B5FD&center=true&vCenter=true&width=700&lines=%3E+Large+Language+Models;%3E+Retrieval+Augmented+Generation;%3E+Vector+Search;%3E+AI+Agents;%3E+Generative+AI;%3E+Computer+Vision;%3E+Deep+Learning"/>
-</p>
+## `> CURRENTLY.EXPLORING`
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│       MELISHA'S LEARNING QUEUE             │
-│                                            │
-│       [████████████░░] LLMs                │
-│       [██████████░░░░] RAG                 │
-│       [█████████░░░░░] AI Agents           │
-│       [████████░░░░░░] Computer Vision     │
-│       [██████████░░░░] Deep Learning       │
-│                                            │
-╰────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  [01] Retrieval-Augmented Generation                │
+│  [02] Agentic AI Systems                             │
+│  [03] Large Language Models                          │
+│  [04] Computer Vision                                │
+│  [05] Multimodal AI                                 │
+│  [06] AI-powered Applications                       │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `05 // PROJECT.LAB`
+## `> PROJECT.LAB`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+%E2%80%A2+Testing+%E2%80%A2+Breaking+%E2%80%A2+Learning;%3E+Melisha's+AI+Lab+is+always+running+%F0%9F%94%AE"/>
-</p>
+### 🤖 AI Document Assistant
 
-### 🧠 AI Assistants
+**RAG-powered intelligent document interaction**
 
-Building intelligent assistants with:
+* 📄 Upload and process documents
+* 🔎 Semantic search
+* 🧠 Context-aware answers
+* 🔗 Retrieval-Augmented Generation
+* 💬 Conversational interface
 
-`LLMs` → `RAG` → `Embeddings` → `Vector Search` → `Responses`
-
-### 📄 Intelligent Document Systems
-
-Exploring applications that can understand, retrieve, analyze, and interact with information.
-
-### 👁️ Computer Vision
-
-Experimenting with:
-
-`OpenCV` + `YOLO` + `Deep Learning`
-
-### ⚡ AI Applications
-
-Turning models into usable applications using:
-
-`FastAPI` + `Streamlit` + `AI APIs`
+**Stack:** Python · LangChain · LLMs · Vector Database · FastAPI
 
 ---
 
-# `06 // THE.BUILD.LOOP`
+### 👁️ Real-Time Object Detection
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&lines=DISCOVER+%E2%86%92+LEARN+%E2%86%92+BUILD;%E2%86%93;%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+IMPROVE;%E2%86%91;%E2%86%92+REPEAT+%E2%88%9E"/>
-</p>
+**Computer vision system for detecting objects in real time**
+
+* 🎥 Live camera detection
+* 🎯 YOLO-based object recognition
+* ⚡ Real-time inference
+* 📊 Detection confidence visualization
+
+**Stack:** Python · YOLO · OpenCV · Deep Learning
+
+---
+
+### 📄 AI Resume Analyzer
+
+**AI-powered resume intelligence system**
+
+* 📑 Resume parsing
+* 🧠 Skill extraction
+* 🎯 Job-description matching
+* 📊 Resume scoring
+* 💡 Improvement recommendations
+
+**Stack:** Python · NLP · Transformers · LLMs · Streamlit
+
+---
+
+## `> BUILD.LOOP`
 
 ```text
-             ┌──────────────┐
-             │   DISCOVER   │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    LEARN     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    BUILD     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    BREAK     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    DEBUG     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   IMPROVE    │
-             └──────┬───────┘
-                    │
-                    └──────────────↻
+              ┌──────────────┐
+              │    IDEA 💡   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    LEARN 📚  │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    BUILD 🔨  │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │   TEST 🧪    │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │  IMPROVE ⚡  │
+              └──────┬───────┘
+                     ↓
+                  REPEAT ∞
 ```
 
 ---
 
-# `07 // GITHUB.MATRIX`
+## `> GITHUB.ACTIVITY`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=melisha-lewis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-lewis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-# `08 // CONTRIBUTION.SNAKE`
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Melisha Lewis GitHub contribution snake animation"/>
-</p>
+<br/>
 
-<p align="center">
-  <i>🐍 watching Melisha's commits travel through the grid...</i>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=melisha-lewis&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-# `09 // MELISHA.INFINITE_LOOP`
+## `> CONTRIBUTION.MATRIX`
 
-```python
-while True:
+<div align="center">
 
-    idea = imagine()
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=melisha-lewis&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-    knowledge = learn(idea)
+</div>
 
-    project = build(knowledge)
+---
 
-    if project.breaks:
-        debug(project)
+## `> CONTRIBUTION.SNAKE`
 
-    improve(project)
+<div align="center">
 
-    repeat()
+<img src="https://raw.githubusercontent.com/melisha-lewis/melisha-lewis/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## `> PHILOSOPHY.exe`
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   "The best way to learn AI is to build AI."    ║
+║                                                  ║
+║   Curiosity → Experimentation → Failure →       ║
+║   Learning → Building → Impact                   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=There+is+always+something+new+to+learn.;There+is+always+something+new+to+build.;Melisha+Lewis+keeps+going...+%E2%9C%A6"/>
-</p>
-
 ---
 
-# `10 // PHILOSOPHY`
+## `> CONNECT`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Don't+just+learn+the+technology.;Build+something+with+it.+%E2%9C%A8"/>
-</p>
+<div align="center">
 
-> **I don't want to simply use AI.**
-> **I want to understand it, build with it, and make it useful.**
-
-Every project is another opportunity to learn something new.
-
-The goal isn't just to write code.
-
-It's to create something that makes someone say:
-
-### **“This is actually useful.”** ✨
-
----
-
-# `11 // CONNECT.WITH.MELISHA`
-
-<p align="center">
-
-<a href="https://github.com/melisha-lewis">   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/melisha-lewis">
+<img src="https://img.shields.io/badge/GitHub-melisha--lewis-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/melisha-lewis">   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/melisha-lewis)[melisha-lewis](https://www.linkedin.com/melisha-lewis)"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+Melisha+Lewis's+profile+%E2%9C%A8;Stay+curious.;Keep+building.;Keep+experimenting.+%F0%9F%92%9C"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>✦ MELISHA LEWIS ✦</b>
-  <br>
-  <sub>AI • ML • GenAI • Computer Vision</sub>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+intelligent.;Keep+learning.+Keep+building.+%E2%88%9E" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0d1117&height=130&section=footer&animation=twinkling"/>
-</p>
+</div>
 
-<!--
-  Built with curiosity by Melisha Lewis.
-  Keep learning. Keep building. Keep breaking things. ✦
--->
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer"/>
+
+</div>
