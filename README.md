@@ -1,259 +1,200 @@
-<div align="center">
+# ◈ Hey, I'm **Melisha Lewis** 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=MELISHA%20LEWIS&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=61&descSize=17&color=0:020617,35:172554,65:312E81,100:06B6D4&animation=fadeIn"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:312e81,100:7c3aed&height=200&section=header&text=Melisha%20Lewis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=AI%2FML+Student+%F0%9F%A4%96;Artificial+Intelligence+Enthusiast+%F0%9F%A7%A0;Machine+Learning+%7C+Python+%7C+Data+Science;Exploring+Intelligent+Systems+%F0%9F%94%AC;Learn+%E2%80%A2+Experiment+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%9C%A8"/>
+<p align="center">
+  <b>🤖 AI / ML • Generative AI • Computer Vision • Software Development</b>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=melisha-lewis&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `╭────── SYSTEM INITIALIZED ──────╮`
-
-# 🤖 AI / ML STUDENT
-
-### Artificial Intelligence • Machine Learning • Data Science
-
-### `╰────────────────────────────────╯`
-
-</div>
+<p align="center">
+  <i>Turning ideas into intelligent systems, one project at a time. ✨</i>
+</p>
 
 <br>
 
-<table align="center">
-<tr>
+---
 
-<td width="55%" valign="top">
+## `> whoami`
 
-## 🧠 About Me
+Hi! I'm **Melisha**, an aspiring **AI/ML developer** passionate about building intelligent applications and exploring the rapidly evolving world of Artificial Intelligence.
 
-I'm an **Artificial Intelligence & Machine Learning student** interested in understanding how intelligent systems learn, analyze data and solve real-world problems.
+I'm especially interested in the intersection of:
 
-I enjoy experimenting with **Python, machine learning, data analysis and AI systems**, while turning what I learn into practical projects.
+**Machine Learning × Deep Learning × Generative AI × Computer Vision × Real-World Applications**
 
-### Currently interested in
+I enjoy not only building models, but also turning them into **useful, interactive, and deployable applications**.
 
-🤖 Artificial Intelligence
-🧠 Machine Learning
-🔬 Deep Learning
-📊 Data Science
-🐍 Python
-📈 Data Visualization
-🧩 Intelligent Systems
+```python
+class Melisha:
 
-</td>
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Large Language Models",
+        "Computer Vision",
+        "Deep Learning"
+    ]
 
-<td width="45%" valign="top">
+    mindset = "learn → build → break → understand → improve"
 
-## ⚡ AI Profile
-
-```text
-┌──────────────────────────────┐
-│       MELISHA LEWIS          │
-├──────────────────────────────┤
-│                              │
-│  🎓 AI / ML STUDENT          │
-│                              │
-│  🧠 Artificial Intelligence  │
-│  🤖 Machine Learning         │
-│  📊 Data Science             │
-│  🐍 Python                   │
-│  🔬 Experimentation          │
-│                              │
-│  STATUS: LEARNING...         │
-│  STATUS: BUILDING...         │
-│                              │
-└──────────────────────────────┘
+    goal = "Build AI that solves meaningful problems."
 ```
 
-</td>
+---
 
-</tr>
-</table>
+## 🧠 My AI / ML Stack
+
+### 🤖 Artificial Intelligence
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+</p>
+
+`Machine Learning` · `Deep Learning` · `Generative AI` · `LLMs`
+
+### 🧩 Generative AI
+
+`LangChain` · `OpenAI API` · `RAG` · `Embeddings` · `Vector Databases`
+
+### 👁️ Computer Vision
+
+`OpenCV` · `YOLO` · `Transformers` · `BERT`
+
+### 📊 Data & ML
+
+`NumPy` · `Pandas` · `scikit-learn`
+
+### ⚡ Application Development
+
+`FastAPI` · `Streamlit`
+
+### 🛠️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react&theme=dark" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 What I'm Building
 
-# ⚡ TECH STACK
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode&theme=dark&perline=6"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1120?style=for-the-badge&logo=googlebard&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/Data%20Science-0B1120?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SQL-0B1120?style=for-the-badge&logo=mysql&logoColor=06B6D4"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 SELECTED PROJECTS
-
-</div>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-## 🤖 Tutelaris
-
-**Local AI & intelligent voice system**
-
-A project exploring local AI, voice interaction and AI-assisted safety applications.
-
-**Focus**
-
-`Python` `Flask` `SQLite`
-`Local LLM` `Voice AI`
-
-<br>
-
-<a href="https://github.com/melisha-lewis/Tutelaris">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌾 Agricultural Analysis
-
-**Seasonal Agricultural Performance Analysis**
-
-Explores seasonal agricultural performance, trends, patterns and relationships using data analysis and visualization.
-
-**Focus**
-
-`Python` `Data Analysis`
-`Statistics` `Visualization`
-
-<br>
-
-<a href="https://github.com/melisha-lewis">
-<img src="https://img.shields.io/badge/MORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 📊 GITHUB INTELLIGENCE
-
-### My coding activity at a glance
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=melisha-lewis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0B1120&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1&border_radius=15" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-lewis&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1&border_radius=15" width="42%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melisha-lewis&theme=tokyonight" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔥 CONTRIBUTION STREAK
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=melisha-lewis&theme=tokyonight&hide_border=true&background=0B1120&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&border_radius=15" width="65%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔬 CURRENTLY EXPLORING
-
-<br>
-
-<table>
-<tr>
-<td align="center">🤖<br><b>AI</b></td>
-<td>→</td>
-<td align="center">🧠<br><b>ML</b></td>
-<td>→</td>
-<td align="center">📊<br><b>DATA</b></td>
-<td>→</td>
-<td align="center">🔬<br><b>EXPERIMENT</b></td>
-<td>→</td>
-<td align="center">🚀<br><b>BUILD</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 💫 MY APPROACH
+I'm particularly interested in projects that combine **AI with real-world usability**.
 
 ```text
-        ┌────────┐
-        │  LEARN │
-        └───┬────┘
-            ↓
-      ┌───────────┐
-      │ EXPERIMENT│
-      └─────┬─────┘
-            ↓
-       ┌─────────┐
-       │  BUILD  │
-       └────┬────┘
-            ↓
-      ┌───────────┐
-      │  ANALYZE  │
-      └─────┬─────┘
-            ↓
-       ┌─────────┐
-       │ IMPROVE │
-       └─────────┘
+        💡 IDEA
+           │
+           ▼
+     🔬 RESEARCH
+           │
+           ▼
+     🧠 AI / ML MODEL
+           │
+           ▼
+     ⚙️ APPLICATION
+           │
+           ▼
+      🚀 DEPLOYMENT
+           │
+           ▼
+      ✨ REAL IMPACT
 ```
 
-### `while (learning) { keepBuilding(); }`
+### 🔮 Areas I'm exploring
 
-</div>
+* 🧠 **Generative AI & LLM applications**
+* 🔎 **Retrieval-Augmented Generation (RAG)**
+* 👁️ **Computer Vision**
+* 🤖 **AI Assistants**
+* 📄 **Intelligent Document Processing**
+* 🧬 **Deep Learning**
+* ⚡ **AI-powered web applications**
 
 ---
 
-<div align="center">
+## 🌱 Currently Learning
 
-<a href="https://github.com/melisha-lewis">
+```text
+┌─────────────────────────────────────┐
+│       CURRENTLY EXPLORING           │
+├─────────────────────────────────────┤
+│  🧠 Large Language Models           │
+│  🔗 RAG & Vector Search             │
+│  🤖 Generative AI                   │
+│  👁️ Computer Vision                │
+│  🧬 Deep Learning                   │
+│  ⚡ AI Application Development      │
+└─────────────────────────────────────┘
+```
 
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+---
 
+## 💻 Featured Projects
+
+> A collection of things I've built, experimented with, and learned from.
+
+| 🚀 Project              | 🧠 What it explores                 |
+| ----------------------- | ----------------------------------- |
+| **AI / ML Projects**    | Machine Learning & Deep Learning    |
+| **Generative AI Apps**  | LLMs, RAG & intelligent assistants  |
+| **Computer Vision**     | OpenCV, YOLO & visual intelligence  |
+| **AI Web Applications** | FastAPI, Streamlit & AI integration |
+
+<p align="center">
+  <i>More projects coming soon... 🚀</i>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
+</p>
+
+---
+
+## 🌌 My Philosophy
+
+> **Don't just learn the technology. Build something with it.**
+
+I'm constantly experimenting with new ideas, learning from mistakes, and trying to understand **how technology can be used to solve meaningful problems**.
+
+The goal isn't just to write code.
+
+It's to create something that makes someone say:
+
+**"This is actually useful."** ✨
+
+---
+
+## 💜 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<br><br>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,35:2563EB,65:4F46E5,100:7C3AED&animation=fadeIn"/>
+</p>
 
-</div>
+<br>
+
+<p align="center">
+  <b>✨ Learning. Building. Experimenting. ✨</b>
+</p>
+
+<p align="center">
+  <sub>Made with curiosity, caffeine & way too many tabs open. ☕</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0d1117&height=100&section=footer"/>
+</p>
